@@ -93,7 +93,7 @@ Advanced analytical constructs such as DoD, MoM, QoQ, and YoY growth, moving ave
 | Sales by Day of Week     | View | Performance comparison across weekdays                          |
 | Payment Mode Analysis    | View | Revenue contribution by payment method                          |
 
-<img width="1338" height="506" alt="image" src="https://github.com/user-attachments/assets/18594b04-a84f-4378-8cd6-4411db79ff78" />
+<img width="1338" height="506" alt="Screenshot 2026-01-11 170102" src="https://github.com/user-attachments/assets/2a14eb7e-cf0b-4e90-88a0-5d46b06fc8c1" />
 
 ________________________________________
 ### **📄 02_customer_analytics.sql** 
@@ -107,8 +107,7 @@ It applies RFM segmentation to classify customers into actionable behavioral coh
 | Cohort Retention        | MV            | Tracks monthly customer retention by acquisition cohort                                |
 | Churn Risk              | View          | Identifies high-value customers with elevated churn probability                        |
 
-<img width="1340" height="541" alt="image" src="https://github.com/user-attachments/assets/e5eca8a7-5839-4240-a04c-5cfabd33555d" />
-
+<img width="1340" height="541" alt="Screenshot 2026-01-11 170216" src="https://github.com/user-attachments/assets/93c68634-181e-4d56-bd54-e58d923ee5f5" />
 
 ________________________________________
 ### **📄 03_product_analytics.sql**
@@ -124,8 +123,7 @@ Inventory turnover and velocity metrics translate sales behavior into actionable
 | Brand Performance    | View | Revenue and demand by brand                      |
 | Inventory Status     | View | Stock availability and risk indicators           |
 
-<img width="1333" height="532" alt="image" src="https://github.com/user-attachments/assets/3befd6f3-b272-4f7d-8d1c-99bc034758c7" />
-
+<img width="1333" height="532" alt="Screenshot 2026-01-11 170258" src="https://github.com/user-attachments/assets/377dd930-cb66-4cd9-b1e2-805d3203dae3" />
 
 ________________________________________
 ### **📄 04_store_analytics.sql** 
@@ -139,8 +137,7 @@ Regional rollups enable geographic benchmarking across revenue, profit, workforc
 | Store Inventory Status | View | Inventory health and stock risk by store    |
 | Employee Distribution  | View | Workforce size and payroll by store         |
 
-<img width="1331" height="530" alt="image" src="https://github.com/user-attachments/assets/560a8e3c-e6c2-464b-afa6-2eb5300c1f6f" />
-
+<img width="1331" height="530" alt="Screenshot 2026-01-11 170328" src="https://github.com/user-attachments/assets/6c1c145f-c0ac-4af2-bde3-61afedf652f9" />
 
 ________________________________________
 ### **📄 05_operations_analytics.sql**
@@ -156,7 +153,7 @@ Return behavior is analyzed by category and reason to quantify refund impact, wh
 | Pending Shipments    | View | Actionable list of delayed or stuck orders |
 | Operations Summary   | MV   | Consolidated operational KPIs snapshot     |
 
-<img width="1342" height="582" alt="image" src="https://github.com/user-attachments/assets/ec4bcc86-b851-45dc-a019-ac9b21285764" />
+<img width="1342" height="582" alt="Screenshot 2026-01-11 170415" src="https://github.com/user-attachments/assets/45a4e4f3-7be5-49d1-9f05-521ac6960ffb" />
 
 ________________________________________
 ### **📄 06_marketing_analytics.sql** 
@@ -171,8 +168,7 @@ Channel performance analysis ranks acquisition efficiency by spend, clicks, and 
 | Email Engagement        | View | Open rate and click-through rate analysis      |
 | Marketing ROI Summary   | MV   | Overall marketing spend and conversion metrics |
 
-<img width="1323" height="532" alt="image" src="https://github.com/user-attachments/assets/9490080b-f57d-4419-a275-ae148998c0f2" />
-
+<img width="1323" height="532" alt="Screenshot 2026-01-11 170446" src="https://github.com/user-attachments/assets/ca12e1ed-d92e-4e60-bc36-1a7f38f30990" />
 
 ________________________________________
 ### **📁 04_alerts** 
